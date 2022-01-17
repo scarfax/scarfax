@@ -4,7 +4,7 @@
 
 ####  - 💻 &nbsp; Trabalho como **Analista de Monitoramento** na <a href="https://www.zup.com.br/">Zup IT.</a>
 
-####  - 🎓 &nbsp; Estudo **Análise e Desenv. de Sistemas** na <a href="https://estacio.br/">Estácio de Sá</a>.
+####  - 🎓 &nbsp; Estudo **Análise e Desenv. de Sistemas** na <a href="https://estacio.br/">Estácio.</a>
 
 
 
